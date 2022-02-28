@@ -1,16 +1,13 @@
-### Hi there 👋
+#### ${ ```ABOUT``` } */n* ${ ```>_*``` }
+- Currently working on my exams. Preparing my dotfiles in free time. 
+- [sentinm/Rclone-Heroku](https:github.com/sentinm/Rclone-Heroku/) is one of my opensource projects (more will be soon like this in the future)
 
-<!--
-**sentinm/sentinm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ${ ```TOOLS``` } */n* ${ ```OTHER``` }
+ os            : Archcraft;
+ wm            : openbox; dwm; i3; bspwm; kde-plasma(KWin)
+ graphic       : lunacy;
+ programming   : vs-code; atom;
+ active : {
+     telegram  : [@sentinm](https:/t.me/sentinm);
+     reddit    : [@poppitxd](https://www.reddit.com/u/poppitxd/);
+ } 
