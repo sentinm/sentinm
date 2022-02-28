@@ -2,12 +2,14 @@
 - Currently working on my exams. Preparing my dotfiles in free time. 
 - [sentinm/Rclone-Heroku](https:github.com/sentinm/Rclone-Heroku/) is one of my opensource projects (more will be soon like this in the future)
 
-#### ${ ```TOOLS``` } */n* ${ ```OTHER``` }
- os            : Archcraft;
- wm            : openbox; dwm; i3; bspwm; kde-plasma(KWin)
- graphic       : lunacy;
- programming   : vs-code; atom;
- active : {
-     telegram  : [@sentinm](https:/t.me/sentinm);
-     reddit    : [@poppitxd](https://www.reddit.com/u/poppitxd/);
- } 
+#### ${ ```TOOLS``` } */n* ${ ```OTHER``` } <br>
+- os            : _Archcraft;_ <br>
+- wm            : _openbox; dwm; i3; bspwm; kde-plasma(KWin)_ <br>
+- graphic       : _lunacy;_ <br>
+- programming   : _vs-code; atom;_ <br>
+
+<p align=center>active</p>
+
+- telegram  [@sentinm](https:/t.me/sentinm);
+- reddit    [@poppitxd](https://www.reddit.com/u/poppitxd/);
+
