@@ -4,7 +4,7 @@
 
 #### ${ ```TOOLS``` } */n* ${ ```OTHER``` } <br>
 - os            : _Archcraft;_ <br>
-- wm            : _openbox; dwm; i3; bspwm; kde-plasma(KWin)_ <br>
+- wm            : _berry; dwm;_ <br>
 - graphic       : _lunacy;_ <br>
 - programming   : _vs-code; atom;_ <br>
 
